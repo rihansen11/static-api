@@ -1,0 +1,52 @@
+[
+    {
+        "nama":"Cristiano Ronaldo",
+        "gambarId":"cristiano_ronaldo",
+        "position":"Striker / Winger"
+    },
+    {
+        "nama":"Zinedine Zidane",
+        "gambarId":"zinedine_zidane",
+        "position":"Midfilder"
+    },
+    {
+        "nama":"Camavinga",
+        "gambarId":"camavinga",
+        "position":"Midfilder"
+    },
+    {
+        "nama":"Marcelo",
+        "gambarId":"marcelo",
+        "position":"Back Winger"
+    },
+    {
+        "nama":"Rudiger",
+        "gambarId":"rudiger",
+        "position":"Back"
+    },
+    {
+        "nama":"Vinius Junior",
+        "gambarId":"vinicius_jr",
+        "position":"Winger"
+    },
+    {
+        "nama":"Pepe",
+        "gambarId":"pepe",
+        "position":"Back"
+    },
+    {
+        "nama":"Sergio Ramos",
+        "gambarId":"sergio_ramos",
+        "position":"Back"
+    },
+    {
+        "nama":"Mendy",
+        "gambarId":"mendy",
+        "position":"Back Winger"
+    },
+    {
+        "nama":"David Beckham",
+        "gambarId":"beckham",
+        "position":"Striker / Winger"
+    }
+]
